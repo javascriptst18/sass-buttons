@@ -18,6 +18,7 @@ Koden i `style.scss` är vanlig `.css`. Uppgiften är att göra om den css som f
 * _Variabler_ där det är upprepning eller vanligt förekommande värden
 * _Nesting_ där en selektor refererar till ett barn så som `.card div`
 * Det finns även en lösning med [`@extend`](https://sass-lang.com/guide), testa att lösa denna med det om du har tid.
+* Testa använda någon funktion som är inbyggd i sass: http://sass-lang.com/documentation/Sass/Script/Functions.html
 
 En översikt av vad som går att göra finns på:
 * https://sass-lang.com/guide
